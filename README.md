@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [http://linkedin.com/in/shreeprakash24](http://linkedin.com/in/shreeprakash24)
 
-- 📝 I regularly write articles on [different technolgies.](different technolgies.)
+- 📝 I regularly write articles on different technolgies.
 
 - 💬 Ask me about **HTML,CSS.JS**
 
 - 📫 How to reach me **prakash.guptaee@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences resume link
 
 - ⚡ Fun fact **I am funny**
 
