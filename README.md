@@ -1,4 +1,4 @@
-
+![logo](https://github.com/spg24/spg24/blob/main/Shree%20Prakash%20Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shree Prakash Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
